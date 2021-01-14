@@ -1,0 +1,1 @@
+Google Appscript Spreadsheet definitions (with option to plug any implementation) for use with Google spreadsheet macros using JSweet and also for testing in pure Java tests.
